@@ -17,7 +17,8 @@ Local Installation & Usage
 Deployed App
 Demo
 
-![1F490512-9371-4A2C-9305-DF8A85542A90_1_105_c](https://user-images.githubusercontent.com/80792502/131208512-dfee31e3-f2b1-4dfe-9962-18607a4baf68.jpeg)
+
+
 
 
 License
